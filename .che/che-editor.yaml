@@ -1,0 +1,6 @@
+# reference and override
+reference: https://raw.githubusercontent.com/debovema/che-custom-theia/main/che-editor.yaml
+override:
+  containers:
+    - name: theia-ide
+      memoryLimit: 1280Mi

@@ -1,0 +1,6 @@
+schemaVersion: 2.1.0
+metadata:
+  name: custom-theia
+attributes:
+  che-editor.yaml: |
+    - id: eclipse/che-theia/7.37.1
